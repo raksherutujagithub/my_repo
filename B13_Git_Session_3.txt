@@ -1,0 +1,56 @@
+git init
+git clone <url>
+git push origin master
+git pull
+git add --all
+git reset --staged
+
+----------------------------
+#Git Branch
+
+Create new branch GUI
+
+clone 
+
+git checkout dev
+
+git branch 
+
+=============================
+PR : Pull Request 
+
+
+Dev : Raise PR 
+
+Dev ---> Main 
+
+Review --> Approved 
+
+
+=========================================================
+Branch : 
+
+main/master
+feature
+release
+bugfix
+
+-----------------------------
+=========================================================
+#Python Pandas
+
+Core Python 
+
+pyspark : 
+
+Pandas :
+
+lib data manipulation , analysis 
+
+
+Series : 
+
+d=[10,20,30,40]
+
+
+DataFrame : 

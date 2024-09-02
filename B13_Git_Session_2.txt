@@ -1,0 +1,31 @@
+#Git Session 2
+-----------------------------
+Download git Client :
+https://git-scm.com/download/win
+
+#Generate SSH KEY 
+cmd prompt --> ssh-keygen
+
+#Add Gnerated key on GitHub.
+
+git init
+
+#Git Config : 
+
+git config --global user.name "manjushamule93"
+git config --global user.email "manjushamule93@gmail.com"
+
+git clone git@github.com:manjushamule93/MyPractice.git
+
+git status
+
+git add --all
+
+git restore --staged f2.txt
+
+git commit -m "added new file f1.txt 1 file deleted 1 modified"
+
+git push
+
+git push origin main
+
